@@ -15,7 +15,7 @@ if (!is_dir("htmlsource/$base_url")) {
 
 
  // Homepage -> index.html
-$title = 'Classroom 6x Games';
+$title = 'Cool Math Play Games';
 
 $custom = \helper\themes::get_layout('header/metadata_home');
 $layout = '';
