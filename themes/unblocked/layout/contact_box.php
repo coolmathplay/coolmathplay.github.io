@@ -896,7 +896,29 @@
                                 <div class="select is-fullwidth">
                                     <select name="Topic" id="Topic" data-validate-field="Topic" class="">
                                         <option value="Others" selected="">Others</option>
-                                        <option value="Advertisement">Advertisement</option>
+                                        <option value="<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5152482106464455"
+     crossorigin="anonymous"></script>
+<!-- responsive 6 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5152482106464455"
+     data-ad-slot="1162483012"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5152482106464455"
+     crossorigin="anonymous"></script>
+<!-- responsive 6 -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5152482106464455"
+     data-ad-slot="1162483012"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></option>
                                         <option value="Copyright Infringement">Copyright Infringement</option>
                                         <option value="Technincal Issues">Technincal Issues</option>
                                         <option value="New Game Requests">New Game Requests</option>
